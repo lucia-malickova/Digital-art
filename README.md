@@ -103,9 +103,10 @@ You can reuse JellyViz for other research:
 Just prepare a similar Excel table (questions, percentages, or yes/no values).
 
 ---
-![JellyViz Example](./meduza_scientific_20251031-191206.png)
+![JellyViz Example](./meduza_scientific_example.png)
 
-[![Watch the animation](./jellyviz_example.jpg)]([https://youtu.be/tvoj_youtube_link](https://youtube.com/shorts/snEl3e49-to))
+🎞️ Watch the animation here:  
+[![Watch the animation](https://img.youtube.com/vi/snEl3e49-to/0.jpg)](https://www.youtube.com/watch?v=snEl3e49-to)
 
 
 
