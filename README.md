@@ -1,16 +1,11 @@
-# JellyViz Scientific (beginner-friendly)
+# JellyViz Scientific (Beginner Friendly)
 
-This is the *simplest possible* project to turn an Excel survey about women in IT into a **beautiful “jellyfish” picture** (and optional video).
+Turn an Excel survey about women in IT into a scientific-looking **jellyfish** visualization.
+- Always saves a PNG; tries to save an MP4 if FFmpeg is available.
+- Your data stays on your machine. **Do not upload real Excel files** to this repo.
 
-> 🔒 **Do not upload your real Excel here.**  
-> Keep your data on your computer. This repo only contains the code.
-
----
-
-## What you need (once)
-1) Install **Anaconda**: https://www.anaconda.com/download  
-2) Open **Anaconda Prompt** and create a clean environment:
-
+## Quick Start
 ```bash
 conda env create -f environment.yml
 conda activate jellyviz
+python -m jellyviz.cli --excel "C:\path\to\your.xlsx" --outdir outputs
