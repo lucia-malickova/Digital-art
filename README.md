@@ -3,15 +3,6 @@
 Turn an Excel survey about women in IT into a **scientific-looking jellyfish visualization** — as an image (PNG) and optionally a video (MP4).  
 This project is designed for **absolute beginners** who have never coded before.  
 You only need to **follow the steps exactly as written** — no coding skills required.
-
-
-# 🪼 JellyViz – Scientific Visualization of Social Data
-
-![JellyViz Visualization](./outputs/meduza_scientific_20251031-191606.png)
-
-🎞️ Watch the animation here:  
-[![Watch the animation](https://img.youtube.com/vi/snEl3e49-to/0.jpg)](https://www.youtube.com/watch?v=snEl3e49-to)
-
 ---
 
 ## 💡 What is JellyViz?
@@ -111,7 +102,6 @@ You can reuse JellyViz for other research:
 Just prepare a similar Excel table (questions, percentages, or yes/no values).
 
 ---
-![JellyViz Example](./meduza_scientific_20251031-191606)
 
 🎞️ Watch the animation here:  
 [![Watch the animation](https://img.youtube.com/vi/snEl3e49-to/0.jpg)](https://www.youtube.com/watch?v=snEl3e49-to)
