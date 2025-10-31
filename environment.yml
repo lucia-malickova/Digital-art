@@ -1,0 +1,13 @@
+name: jellyviz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - imageio
+  - imageio-ffmpeg
+  - openpyxl
+  - ffmpeg
